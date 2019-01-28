@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritika Upadhyay on Ritika Upadhyay</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Ritika Upadhyay on Ritika Upadhyay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Statistical Analysis of Factors Influencing WhatsApp Usage Among Healthcare Professionals in India, May 2018</title>
+      <link>http://localhost:1313/project/statistical-analysis-of-factors-influencing-whatsapp-usage-among-healthcare-professionals-in-india/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/project/statistical-analysis-of-factors-influencing-whatsapp-usage-among-healthcare-professionals-in-india/</guid>
+      <description>&lt;p&gt;The aim here was to better understand how healthcare professionals in India use WhatsApp to communicate with patients and which factors
+set apart those who do from those do do not.&lt;br/&gt;
+This study was a step towards a better understanding of benefits, risks and challenges pertaining
+to WhatsApp usage by healthcare professionals in India, leading to better use of such technological tools in healthcare. &lt;br/&gt; &lt;br/&gt;
+Some interesting findings: &lt;br/&gt;
+● A healthcare professional having a separate SIM card/mobile device for wrk was more likely to interact with a patient using WhatsApp &lt;br/&gt;
+● If they encounter issues with storing healthcare information transmitted using WhatsApp, they seem significantly less likely to use it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of e-Visit Availability among respondents to Minnesota HIT Clinic Survey 2016, May 2018</title>
+      <link>http://localhost:1313/project/statistical-analysis-of-e-visit-availability-among-respondents-to-minnesota-hit-clinic-survey-2016/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/project/statistical-analysis-of-e-visit-availability-among-respondents-to-minnesota-hit-clinic-survey-2016/</guid>
+      <description>&lt;p&gt;Used logistic regression to assess which factors distinguish clinics in MN that offer patients e-Visit facilities, and the extent to which they do.&lt;br/&gt;
+Some key findings:&lt;br/&gt;
+● Primary-care clinics are more likely to offer e-Visits than specialist clinics &lt;br/&gt;
+● Facilities that use Epic EHR systems are significantly likely to offer e-Visit facilities &lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of Patient-Centric HIE among Respondents to 2015 AHA Annual Survey ITS, Mar’18 – April’18</title>
+      <link>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</guid>
+      <description>&lt;p&gt;Assessment of patient engagement functionalities offered by hospitals across the US per the survey, with a focus on features offered
+to patients to access and manage their health records and the mechanisms available for doing so. &lt;br/&gt;&lt;br/&gt;
+Some key findings:&lt;br/&gt;
+● Government and non-profit hospitals tend to offer their patients more features for managing their healthcare information.&lt;br/&gt;
+● The extent to which a hospital shared information with other hospitals &amp;amp; clinics within and outside its network had a significant bearing on the extent of facilities offered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Weekly Tableau Challenges</title>
+      <link>http://localhost:1313/project/weekly-tableau-challenges/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0600</pubDate>
+      
+      <guid>http://localhost:1313/project/weekly-tableau-challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post title</title>
+      <link>http://localhost:1313/2016/04/20/post-title/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/2016/04/20/post-title/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
