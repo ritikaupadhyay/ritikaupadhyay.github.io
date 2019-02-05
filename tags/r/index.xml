@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Statistical Analysis of Patient-Centric HIE among Respondents to 2015 AHA Annual Survey ITS, Mar’18 – April’18</title>
       <link>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</guid>
       <description>Assessment of patient engagement functionalities offered by hospitals across the US per the survey, with a focus on features offered to patients to access and manage their health records and the mechanisms available for doing so.  Some key findings: ● Government and non-profit hospitals tend to offer their patients more features for managing their healthcare information. ● The extent to which a hospital shared information with other hospitals &amp;amp; clinics within and outside its network had a significant bearing on the extent of facilities offered.</description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 27 May 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Statistical Analysis of Factors Influencing WhatsApp Usage Among Healthcare Professionals in India, May 2018</title>
       <link>http://localhost:1313/project/statistical-analysis-of-factors-influencing-whatsapp-usage-among-healthcare-professionals-in-india/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/project/statistical-analysis-of-factors-influencing-whatsapp-usage-among-healthcare-professionals-in-india/</guid>
       <description>The aim here was to better understand how healthcare professionals in India use WhatsApp to communicate with patients and which factors set apart those who do from those do do not. This study was a step towards a better understanding of benefits, risks and challenges pertaining to WhatsApp usage by healthcare professionals in India, leading to better use of such technological tools in healthcare.   Some interesting findings:  ● A healthcare professional having a separate SIM card/mobile device for wrk was more likely to interact with a patient using WhatsApp  ● If they encounter issues with storing healthcare information transmitted using WhatsApp, they seem significantly less likely to use it.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Statistical Analysis of e-Visit Availability among respondents to Minnesota HIT Clinic Survey 2016, May 2018</title>
       <link>http://localhost:1313/project/statistical-analysis-of-e-visit-availability-among-respondents-to-minnesota-hit-clinic-survey-2016/</link>
-      <pubDate>Sun, 27 May 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/project/statistical-analysis-of-e-visit-availability-among-respondents-to-minnesota-hit-clinic-survey-2016/</guid>
       <description>Used logistic regression to assess which factors distinguish clinics in MN that offer patients e-Visit facilities, and the extent to which they do. Some key findings: ● Primary-care clinics are more likely to offer e-Visits than specialist clinics  ● Facilities that use Epic EHR systems are significantly likely to offer e-Visit facilities</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Statistical Analysis of Patient-Centric HIE among Respondents to 2015 AHA Annual Survey ITS, Mar’18 – April’18</title>
       <link>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/project/statistical-analysis-of-patient-centric-hie-among-respondents-to-2015-aha-annual-survey-its-mar18-april18/</guid>
       <description>Assessment of patient engagement functionalities offered by hospitals across the US per the survey, with a focus on features offered to patients to access and manage their health records and the mechanisms available for doing so.  Some key findings: ● Government and non-profit hospitals tend to offer their patients more features for managing their healthcare information. ● The extent to which a hospital shared information with other hospitals &amp;amp; clinics within and outside its network had a significant bearing on the extent of facilities offered.</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Weekly Tableau Challenges</title>
       <link>http://localhost:1313/project/weekly-tableau-challenges/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/project/weekly-tableau-challenges/</guid>
       <description></description>

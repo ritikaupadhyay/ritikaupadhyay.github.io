@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Weekly Tableau Challenges</title>
       <link>http://localhost:1313/project/weekly-tableau-challenges/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/project/weekly-tableau-challenges/</guid>
       <description></description>

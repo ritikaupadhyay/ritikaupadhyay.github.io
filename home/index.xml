@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ritika Upadhyay &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>http://localhost:1313/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>http://localhost:1313/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/hero/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title></title>
       <link>http://localhost:1313/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/about/</guid>
       <description>Biography I am an MIS graduate student at the University of Illinois at Chicago with 2 years of work experience at Deloitte in the US Public Sector Healthcare domain.  Experienced with using statistical models and ML algorithms to solve real-world problems, and building dashboards to report context-driven insights from data to help businesses answer questions and make decisions.
@@ -43,7 +43,7 @@
     <item>
       <title>Skills</title>
       <link>http://localhost:1313/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/skills/</guid>
       <description></description>
@@ -52,7 +52,7 @@
     <item>
       <title>Selected Publications</title>
       <link>http://localhost:1313/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/publications_selected/</guid>
       <description></description>
@@ -61,7 +61,7 @@
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/projects/</guid>
       <description></description>
@@ -70,7 +70,7 @@
     <item>
       <title>Recent Publications</title>
       <link>http://localhost:1313/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/publications/</guid>
       <description></description>
@@ -88,7 +88,7 @@
     <item>
       <title>Blog</title>
       <link>http://localhost:1313/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/posts/</guid>
       <description></description>
@@ -97,7 +97,7 @@
     <item>
       <title>Selected Talks</title>
       <link>http://localhost:1313/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/talks_selected/</guid>
       <description></description>
@@ -106,7 +106,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>http://localhost:1313/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/talks/</guid>
       <description></description>
@@ -124,7 +124,7 @@
     <item>
       <title>Fun</title>
       <link>http://localhost:1313/home/ahoy/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/ahoy/</guid>
       <description>I am a prolific reader and writer  who loves books and drawing with charcoal; I&amp;rsquo;ve held a lifelong fascination for good design. 
@@ -135,7 +135,7 @@ I am always working towards being a better version of myself and seek profession
     <item>
       <title>Tags</title>
       <link>http://localhost:1313/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/tags/</guid>
       <description></description>
@@ -144,7 +144,7 @@ I am always working towards being a better version of myself and seek profession
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>http://localhost:1313/home/contact/</guid>
       <description></description>
