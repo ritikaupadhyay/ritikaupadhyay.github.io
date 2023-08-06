@@ -5,13 +5,17 @@ font-size:79%;
 margin:0;
 padding:0;
 vertical-align:baseline;
+background-color: black;
+  opacity: 0.6;
 }
 
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
+background-color: black;
+opacity: 0.6;
 }
 
-html, body {background: #181818; font-family: 'Roboto Slab', sans-serif; font-size: 16px; color: #222;}
+html, body {background-color: black; opacity: 0.6; font-family: 'Roboto Slab', sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -20,6 +24,8 @@ p {
 	line-height: 1.4em;
 	margin-bottom: 20px;
 	color: #444;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 #cv {
@@ -27,12 +33,15 @@ p {
 	max-width: 800px;
 	background: #f3f3f3;
 	margin: 30px auto;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 .mainDetails {
 	padding: 15px 25px;
 	border-bottom: 2px solid #ccccc;
-	background: #ededed;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 #name h1 {
@@ -41,6 +50,8 @@ p {
 	font-family: 'Roboto Slab', sans-serif;
 	margin-bottom: -6px;
 	text-align: center;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 #name h5 {
@@ -49,10 +60,14 @@ p {
 	font-family: 'Roboto Slab', sans-serif;
 	text-align: center;
 	padding-top: 15px;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 #mainArea {
 	padding: 0 40px;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 /*
@@ -71,12 +86,16 @@ p {
 */
 #name {
 	float: center;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 #contactDetails {
 	float: center;
 	padding-top: 5px;
 	font-size: 0.75em;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 #contactDetails h5{
@@ -84,6 +103,8 @@ p {
 	margin-left: 2px;
 	font-family: 'Roboto Slab', sans-serif;
 	text-align: center;	
+	background-color: black;
+  	opacity: 0.6;
 	
 }
 /*#contactDetails ul {
@@ -115,42 +136,65 @@ p {
 section {
 	border-top: 1px solid #dedede;
 	padding: 20px 0 0;
+	background-color: black;
+  	opacity: 0.6;
 }
 
 section:first-child {
 	border-top: 0;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 section:last-child {
 	padding: 20px 0 10px;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 .sectionTitle {
 	float: left;
 	width: 90%;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 .sectionContent {
 	float: right;
 	width: 100%;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 .sectionTitle h1 {
 	font-family: 'Roboto Slab', sans-serif;
 	font-size: 1.25em;
 	color: #cf8a05;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 .sectionContent h2 {
 	font-family: 'Roboto Slab', sans-serif;
 	font-size: 1em;
 	margin-bottom: -2px;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 .sectionContent p {
 	font-family: 'Roboto Slab', sans-serif;
 	font-size: 0.75em;
 	margin-bottom: -2px;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 
@@ -158,6 +202,9 @@ section:last-child {
 	font-size: 0.8em;
 	font-style: italic;
 	margin-bottom: 3px;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 
 
@@ -168,11 +215,17 @@ section:last-child {
 	font-family: 'Roboto Slab', sans-serif;
 	font-size: 0.75em;
 	margin-bottom: -2px;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 	
 #skills td, #skills th {
 	border: 1px;
 	padding: 5.5px;
+	background-color: black;
+  	opacity: 0.6;
+
 }
 	
 #skills tr:nth-child(even) {background-color: #e6e7e8;}
@@ -181,7 +234,8 @@ section:last-child {
 #skills th {
 	padding-top: 12px;
 	padding-bottom: 12px;
-	background-color: #4CAF50;
+	background-color: black;
+  	opacity: 0.6;
 	color: white;
 }
 
